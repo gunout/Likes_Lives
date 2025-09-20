@@ -15,7 +15,6 @@ Automations de likes sur Lives TIKTOK .
     chmod +x bot.py
     python3 bot.py
 
-PS : bot.py is send 50 likes / 20 secondes
-     bott.py is send 1000 likes / 10 secondes
+PS : bot.py is send 50 likes / 20 secondes _ bott.py is send 1000 likes / 10 secondes
 
 By Gleaphe 2025 . 
